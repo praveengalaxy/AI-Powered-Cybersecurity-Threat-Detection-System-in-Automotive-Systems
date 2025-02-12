@@ -13,6 +13,8 @@ This project focuses on developing an **AI-powered cybersecurity threat detectio
 
 ## 📂 Datasets Used
 The project uses four datasets:
+     the dataset is released by kea and chevrolet car company , the drive link for datasets: 
+     https://drive.google.com/drive/folders/10o4npkG60guvac6vVdZdq2mHt5KdwWWP?usp=sharing
 1. **Attack-Free Dataset** – Normal automotive CAN data.
 2. **DoS Attack Dataset** – Data with simulated Denial-of-Service attacks.
 3. **Fuzzy Attack Dataset** – Data with unpredictable, random attack patterns.
