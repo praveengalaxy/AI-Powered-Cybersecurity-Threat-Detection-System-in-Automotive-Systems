@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CAN Bus Attack Detection</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <h1>CAN Bus Attack Detection</h1>
+  <div class="button-container">
+    <button onclick="applyAttack('Attack-Free')">DOS</button>
+    <button onclick="applyAttack('DoS')">Attack-Free</button>
+    <button onclick="applyAttack('Fuzzy')">Fuzzy</button>
+    <button onclick="applyAttack('Impersonation')">Impersonation</button>
+  </div>
+  <div class="output-container">
+    <h2 id="live-output">Live Prediction (every 5 sec): Waiting...</h2>
+    <h2 id="final-output">Final Prediction (after 1 min): Waiting...</h2>
+  </div>
+  <script src="/static/script.js"></script>
+</body>
+</html>
