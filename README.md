@@ -26,23 +26,10 @@ The project uses four datasets:
 - **Deployment**: Flask / FastAPI (for real-time detection API)
 
 ## 🚀 Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-cybersecurity-threat-detection.git
-   cd ai-cybersecurity-threat-detection
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the model training script:
-   ```bash
-   python train_model.py
-   ```
-4. Start the real-time detection system:
-   ```bash
-   python app.py
-   ```
+
+
+
+
 
 ## 📜 Usage
 - Feed the system with **CAN bus data**.
