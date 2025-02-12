@@ -1,5 +1,5 @@
 # AI-Powered-Cybersecurity-Threat-Detection-System-in-Automotive-Systems
-AI-Powered Cybersecurity Threat Detection System in Automotive Systems( malicious CAN  detection)
+AI-Powered Cybersecurity Threat Detection System in Automotive Systems( malicious CAN  detection), (still under development).
 
  Project Overview
 This project focuses on developing an **AI-powered cybersecurity threat detection system** for automotive systems. The system analyzes **Controller Area Network (CAN) data** in real time to detect **malicious activities**, such as **Denial-of-Service (DoS), Fuzzy, and Impersonation attacks**. When a potential threat is detected, the system triggers an alarm or takes preventive action.
@@ -58,7 +58,7 @@ The project uses four datasets:
 Feel free to **fork** the repository, create a **pull request**, or report issues via **GitHub Issues**.
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is not yet licensed.
 
 ---
 ✨ *Designed to enhance automotive cybersecurity with AI-powered threat detection!* 🚗💡
